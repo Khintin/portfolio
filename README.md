@@ -23,6 +23,6 @@
 
 # Get Started
 
-git clone git@github.com:[NoroffFEU/portfolio-1-example.git](https://github.com/Khintin/semester-project.git)
+git clone git@github.com:[NoroffFEU/portfolio-1-example.git]([https://github.com/Khintin/semester-project.git](https://github.com/Khintin/portfolio))
 
 [Live Website][(https://project-community-science-museum.netlify.app/)](https://friendly-wilson-0412a0.netlify.app/)
