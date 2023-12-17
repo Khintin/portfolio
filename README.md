@@ -1,13 +1,12 @@
-# Portfolio Semester One
-# Community Science Museeum
-## cross-course-project
+# Portfolio First Year
+## Portfolio
 
 <img width="180" alt="semesterproject" src="https://user-images.githubusercontent.com/367587948_1396323601293068_8529930259987607423_n.png">
 
-### This project is about Community Science Museum where we’re committed to making science accessible to all. Specially for kids.
+### This project is Portfolio from 1st year studying Front-end.
 
 # Decription
-## A newly opened Comunity Science Museum is to create a space where everyone can experience the wonders of our discoveries and perhaps even ignite a lifelong passion to continue the exploration of the world around us. The exhibits are designed for you to interact with and play around to see science come to life.
+## A portfolio about me and my skills as front-end first year student included 3 projects i made during studies.
 
 # Processing
 
