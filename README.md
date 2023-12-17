@@ -1,8 +1,6 @@
 # Portfolio First Year
 ## Portfolio
 
-<img width="180" alt="semesterproject" src="https://user-images.githubusercontent.com/367587948_1396323601293068_8529930259987607423_n.png">
-
 ### This project is Portfolio from 1st year studying Front-end.
 
 # Decription
@@ -23,6 +21,3 @@
 
 # Get Started
 
-git clone git@github.com:[NoroffFEU/portfolio-1-example.git]([https://github.com/Khintin/semester-project.git](https://github.com/Khintin/portfolio))
-
-[Live Website][(https://project-community-science-museum.netlify.app/)](https://friendly-wilson-0412a0.netlify.app/)
